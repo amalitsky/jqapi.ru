@@ -12,9 +12,11 @@ Contributions are welcome.
 * easily printable
 * clean design with less noise
 
+[![jQuery API Cheatsheet](https://raw.github.com/futurecolors/jqapi.ru/master/jquery_cheatsheet.png "screenshot")](http://jqapi.ru)
+
 ## Developing
 
-* `git clone clone git@github.com:futurecolors/jqapi.ru.git`
+* `git clone git@github.com:futurecolors/jqapi.ru.git`
 * `cd jqapi.ru`
 * `npm install`
 * `grunt`
